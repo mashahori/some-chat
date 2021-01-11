@@ -4,6 +4,8 @@ import './styles.js';
 const StyledTabs = withStyles({
   root: {
     padding: '16px',
+    width: '300px',
+    height: '100vh',
   },
 })(MuiTabs);
 
